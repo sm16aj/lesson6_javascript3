@@ -7,7 +7,7 @@ Web Application Development
 (July 13th, 2018)
 
 ### Student Name:  
-Shira Menaged
+(Shira Menaged)
 
 ### Project Description:
 (Create a working photo gallery app with working buttons and assignment methods for img.)
