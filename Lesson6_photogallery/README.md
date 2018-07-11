@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(July 13th, 2018)
 
 ### Student Name:  
-(First and Last Name)
+Shira Menaged
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Create a working photo gallery app with working buttons and assignment methods for img.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://sm16aj.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Markdown syntax methods in the form of styling a page. ie word style & tables)
+2. (Appending nodes for similar structures in code.)
+3. (Assigning values for images and buttons.)
